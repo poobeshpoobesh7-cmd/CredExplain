@@ -1,0 +1,6 @@
+*.mp4
+*.pptx
+*.docx
+*.pdf
+venv/
+__pycache__/
